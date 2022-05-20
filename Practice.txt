@@ -1,0 +1,44 @@
+Cloud Computing 
+
+Cloud computing were all the computing resourses are available virtually and you can use this resourses as per your requirment and 
+create solution of your choice .
+
+1.RAM 
+2.PROCEESORS
+3.CPU 
+4.OS 
+5.Firewalls
+6.network 
+7.Data base 
+
+
+Three genral category of cloud service 
+
+IAAS---Infrastructure as a Service 
+PAAS---Platofrm as a service 
+SAAS---Software as a service 
+
+
+Cloud deployment 
+
+Public cloud 
+
+Private cloud 
+
+Hybrid Cloud 
+
+Billing 
+
+OPEX
+CAPEX
+
+Availblity Zone
+
+Region 
+
+
+
+
+
+
+
